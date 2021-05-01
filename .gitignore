@@ -3,3 +3,5 @@
 ################################################################################
 
 /.vs
+/BookStoreApplication/BookStoreApplication/obj
+/BookStoreApplication/.vs/BookStoreApplication
