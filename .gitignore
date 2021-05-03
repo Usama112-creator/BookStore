@@ -5,3 +5,5 @@
 /.vs
 /BookStoreApplication/BookStoreApplication/obj
 /BookStoreApplication/.vs/BookStoreApplication
+
+/BookStoreApplication/BookStoreApplication/wwwroot/lib

@@ -8,7 +8,9 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="wwwroot\css\" />
-    <Folder Include="wwwroot\images\" />
     <Folder Include="wwwroot\js\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="wwwroot\images\1.jpg" />
   </ItemGroup>
 </Project>
